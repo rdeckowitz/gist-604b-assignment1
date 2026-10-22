@@ -15,4 +15,4 @@ The Source Control panel is located on the left side of the screen, third button
 Explain in 2–3 sentences the difference between:
 - Local workspace (Codespace)
 - Remote repository (GitHub.com)
-The Repository is similar to a portfolio - this is where the folders and files are stored and this is what contains the sharing license. The Codespace is where you work on your code and edits before sharing them with others in your repository. The repository is online on GitHub.com, while the Codespace is stored locally until you commit changes and can only be left idle for a few days.
+The Repository is similar to a portfolio - this is where the folders and files are stored and this is what contains the sharing license. The Codespace is where you work on your code and edits before sharing them with others in your repository. The repository is online on GitHub.com, while the Codespace is stored locally until you commit changes and can only be left idle for a few days. 
