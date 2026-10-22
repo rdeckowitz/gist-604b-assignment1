@@ -17,6 +17,6 @@ def main():
 
     # Add your own message here!
     print("I am interested in how the world around us can be communicated through a multitude of different lenses and geospatial relationships.")
-
+    print('Updated in Codespaces')
 if __name__ == "__main__":
     main()
